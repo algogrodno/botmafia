@@ -3,7 +3,7 @@ import db
 from time import sleep
 from random import choice, shuffle
 
-
+#sfksd;kl
 game = False
 night = False
 TOKEN = "6721478570:AAFbRlZQcsySyjuzbGN7ykLA2m-mol6rfaA"
